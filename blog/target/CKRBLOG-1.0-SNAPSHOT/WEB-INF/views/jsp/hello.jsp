@@ -86,7 +86,7 @@
                 <hr>
 
                 <!-- Date/Time -->
-                <p><span class="glyphicon glyphicon-time"></span> Posted on August 30th March, 2016 at 9:00 PM</p>
+                <p><span class="glyphicon glyphicon-time"></span> Posted on 30th March, 2016 at 9:00 PM</p>
 
                 <hr>
 
@@ -97,17 +97,17 @@
 
                 <!-- Post Content class="lead" -->
                 <p class="lead">Marketing trends are changing in a phenomenal way. In a very short span of time our means & ways of purchasing have changed. Mobile technology and internet boom in India is greatly responsible for widespread use of online market space like amazon , flipkart , Snapdeal etc. Gradually online marketing is gaining good pace among metro cities and towns. With a smartphone in every hand browsing and getting allured to make a purchase is something most of the Indians fall to. But no less do we miss the bargain option but also making comparison across different shops like actual markets . Many a times it becomes too tough and tiresome to assure oneself of making best purchase in most economic manner.</p>
-                <p>To satisfy this human tendency CSE- Comparison Shopping Engines come at hand for help. Its new buzzword in town and is slowly getting popular among netizens fond of shopping online.</p>
-                <p>CSE are amazing solutions that act as information boxes which place prices from across all major ecommerce sites under one web page. They free you from hopping across tabs and searching same product in every site to compare the prices.</p>
+                <p class="lead">To satisfy this human tendency CSE- Comparison Shopping Engines come at hand for help. Its new buzzword in town and is slowly getting popular among netizens fond of shopping online.</p>
+                <p class="lead">CSE are amazing solutions that act as information boxes which place prices from across all major ecommerce sites under one web page. They free you from hopping across tabs and searching same product in every site to compare the prices.</p>
                 <p class="lead">Top Comparison Shopping Engines(CSE) in India one must look up while shopping online:</p>
-                <ul>
+                <ul class="lead">
                 <li><a href="http://www.comparekarterahoo.com" TARGET="_blank">CompareKarteRahoo.com</a> - A site that lets you search across Amazon, Flipkart, Snapdeal and many more sites to fetch you real time or dynamic prices. Along with Coupons, Price drop notification and additional cashback on every purchase made via them.</li>
                 <li><a href="http://www.comparekarterahoo.com" TARGET="_blank">CashKaro.com</a> - Aims to help customers save on online purchases by Giving additional cash back. Search & compare using our site reach                        retailers via us to get perks</li>
                 <li><a href="http://www.comparekarterahoo.com" TARGET="_blank"> MySmartPrice.com</a> - Claims to be best online shopping research and discovery destination. It is helping user make an well informed decision while buying online.</li>
                 </ul>
                 
-                <p>Online shopping is not just about comparison but also applying coupons and being able to make purchase by spending minimal amount. Who doesn't love saving money!!!!!</p>
-                 <p>So start exploring CSE's to save both your money and time.</p>
+                <p class="lead">Online shopping is not just about comparison but also applying coupons and being able to make purchase by spending minimal amount. Who doesn't love saving money!!!!!</p>
+                 <p class="lead">So start exploring CSE's to save both your money and time.</p>
                 <hr>
 
                 <!-- Blog Comments -->
